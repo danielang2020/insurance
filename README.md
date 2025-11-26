@@ -5,3 +5,4 @@
 3. When underwriting a policy, can check by rule engine first, then use AI to further check if there is something which isn't included in rule engine.
 4. When introducing products to customers, agent can use AI to help pick up rational products for customers.
 5. When a actuary to design a product, can use AI to map out rate info in order to get profit.
+6. User can use AI chatbot to input natural language to interact with ebao DB.
